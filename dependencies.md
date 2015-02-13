@@ -1,5 +1,5 @@
 # Google Apps Script Project: university
-This repo (university) was automatically updated on 13 February 2015 14:25:28 GMT by GasGit
+This repo (university) was automatically updated on 13 February 2015 20:42:51 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project university
