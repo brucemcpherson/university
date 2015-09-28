@@ -1,5 +1,5 @@
 # Google Apps Script Project: university
-This repo (university) was automatically updated on 15 September 2015 11:47:28 BST by GasGit
+This repo (university) was automatically updated on 28 September 2015 17:42:34 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project university
@@ -33,8 +33,6 @@ cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|14|no|[here](libraries/
 cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|8|no|[here](libraries/cFlatten "library source")
 cRipDB| cRipDB|MZUHVrKIC3rGLHAFDiLLGriz3TLx7pV4j|3|no|[here](libraries/cRipDB "library source")
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
